@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi I'm safa 👋
+
+## Double hash smaller heading
+* bullet points
+*  **bold**
+link - [https://www.uwrindia.com/]
 
 <!--
 **safak-maker/safak-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
